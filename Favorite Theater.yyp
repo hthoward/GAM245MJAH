@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "592c02ed-c0d7-443e-8269-bbef410b9fc5",
+            "Value": {
+                "id": "b94688af-16e0-4d5c-8ed4-a1faa855b73d",
+                "resourcePath": "sprites\\spr_stagePlaceholder\\spr_stagePlaceholder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5c3e3a95-dc19-469c-8338-b59ffa51ab7b",
             "Value": {
                 "id": "f28dd07a-dd4b-4b52-86d8-00e934c7999a",
                 "resourcePath": "sprites\\spr_PlayerPlaceholder\\spr_PlayerPlaceholder.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5d1088c0-90b8-4623-8e56-8a29a2a37f55",
+            "Value": {
+                "id": "dc7c80fd-fb73-4ee2-bb0a-f56826815bc8",
+                "resourcePath": "objects\\obj_stagePlaceholder\\obj_stagePlaceholder.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,6 +143,22 @@
             }
         },
         {
+            "Key": "a031b28c-0973-4d50-87d4-04f17487061b",
+            "Value": {
+                "id": "8e03081a-d990-43de-a18b-c33119046b83",
+                "resourcePath": "objects\\obj_tomatosmallPH\\obj_tomatosmallPH.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a546dc1e-b976-4a63-9412-ee5cb9e45539",
+            "Value": {
+                "id": "b8d96109-eb46-4b7c-b6cf-1be3da3ee1f2",
+                "resourcePath": "objects\\obj_playerPlaceholder\\obj_playerPlaceholder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a731b87a-fb97-46f3-a33c-da91396a0d52",
             "Value": {
                 "id": "19ef02f6-2fe3-458f-8f2e-63de91625fcd",
@@ -159,11 +191,35 @@
             }
         },
         {
+            "Key": "c1d95506-de1e-4806-a24a-7f9e0d3009c8",
+            "Value": {
+                "id": "c1456272-f91a-44b7-abb7-faffe41ca447",
+                "resourcePath": "sprites\\spr_tomatosmallPH\\spr_tomatosmallPH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc410967-d9a1-412a-ac89-ce28264522d6",
+            "Value": {
+                "id": "4e304fcd-54fd-4380-82a0-5b87b6051841",
+                "resourcePath": "sprites\\spr_tomatoLargePH\\spr_tomatoLargePH.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "1de2a904-ebe7-4f49-8483-308f0c46b1d9",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cec4268d-10f5-487e-ac2b-c3dbe4f57701",
+            "Value": {
+                "id": "18d95213-48f5-4f2d-9afc-8435a9e73420",
+                "resourcePath": "objects\\obj_tomatolargePH\\obj_tomatolargePH.yy",
+                "resourceType": "GMObject"
             }
         },
         {
