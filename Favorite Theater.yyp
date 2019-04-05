@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "023dd1f4-2001-4105-b08c-c51313fe482b",
+            "Value": {
+                "id": "bb4cc8e0-d061-43e0-abe7-0dd47e1016e8",
+                "resourcePath": "sprites\\spr_flowerPlaceholder\\spr_flowerPlaceholder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d643ba7-7433-459d-a9f3-12b46b2749e8",
             "Value": {
                 "id": "0e9fdff9-005c-487f-bd59-58152f7f52eb",
@@ -63,6 +71,14 @@
             }
         },
         {
+            "Key": "53dd668c-515b-435c-b4de-935c7bb50e65",
+            "Value": {
+                "id": "e43af10d-4014-459f-9367-01c9c45e45f5",
+                "resourcePath": "objects\\obj_arc\\obj_arc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "592c02ed-c0d7-443e-8269-bbef410b9fc5",
             "Value": {
                 "id": "b94688af-16e0-4d5c-8ed4-a1faa855b73d",
@@ -92,6 +108,22 @@
                 "id": "e76334e3-24cc-426b-acc6-8bfa2df0be54",
                 "resourcePath": "views\\6fbaed0a-5848-46ef-8c18-2655c871e986.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6feee5cd-00a1-4b5e-95d1-7ed9f367f606",
+            "Value": {
+                "id": "4e79ee39-3617-49e3-9287-0eb2e4f8ed44",
+                "resourcePath": "objects\\obj_floor\\obj_floor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7f11950f-bdbb-4e32-a9a9-027a13b4500d",
+            "Value": {
+                "id": "fe3584e3-25d9-45b9-a032-aafa2333352e",
+                "resourcePath": "sprites\\spr_arc\\spr_arc.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -204,6 +236,14 @@
                 "id": "c1456272-f91a-44b7-abb7-faffe41ca447",
                 "resourcePath": "sprites\\spr_tomatosmallPH\\spr_tomatosmallPH.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2b1be6e-2db3-473c-9b7e-975a61d5eb01",
+            "Value": {
+                "id": "0957f2a3-ffea-4f5d-ae66-a77e5fddaae3",
+                "resourcePath": "objects\\obj_flowerPlaceholder\\obj_flowerPlaceholder.yy",
+                "resourceType": "GMObject"
             }
         },
         {
