@@ -90,7 +90,7 @@
             "Key": "5c3e3a95-dc19-469c-8338-b59ffa51ab7b",
             "Value": {
                 "id": "f28dd07a-dd4b-4b52-86d8-00e934c7999a",
-                "resourcePath": "sprites\\spr_PlayerPlaceholder\\spr_PlayerPlaceholder.yy",
+                "resourcePath": "sprites\\spr_Player\\spr_Player.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "a546dc1e-b976-4a63-9412-ee5cb9e45539",
             "Value": {
                 "id": "b8d96109-eb46-4b7c-b6cf-1be3da3ee1f2",
-                "resourcePath": "objects\\obj_playerPlaceholder\\obj_playerPlaceholder.yy",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
         },
