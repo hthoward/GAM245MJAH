@@ -34,7 +34,7 @@
             "Key": "023dd1f4-2001-4105-b08c-c51313fe482b",
             "Value": {
                 "id": "bb4cc8e0-d061-43e0-abe7-0dd47e1016e8",
-                "resourcePath": "sprites\\spr_flowerPlaceholder\\spr_flowerPlaceholder.yy",
+                "resourcePath": "sprites\\spr_flower\\spr_flower.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "592c02ed-c0d7-443e-8269-bbef410b9fc5",
             "Value": {
                 "id": "b94688af-16e0-4d5c-8ed4-a1faa855b73d",
-                "resourcePath": "sprites\\spr_stagePlaceholder\\spr_stagePlaceholder.yy",
+                "resourcePath": "sprites\\spr_stage\\spr_stage.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "5d1088c0-90b8-4623-8e56-8a29a2a37f55",
             "Value": {
                 "id": "dc7c80fd-fb73-4ee2-bb0a-f56826815bc8",
-                "resourcePath": "objects\\obj_stagePlaceholder\\obj_stagePlaceholder.yy",
+                "resourcePath": "objects\\obj_stage\\obj_stage.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -175,14 +175,6 @@
             }
         },
         {
-            "Key": "a031b28c-0973-4d50-87d4-04f17487061b",
-            "Value": {
-                "id": "8e03081a-d990-43de-a18b-c33119046b83",
-                "resourcePath": "objects\\obj_tomatosmallPH\\obj_tomatosmallPH.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a546dc1e-b976-4a63-9412-ee5cb9e45539",
             "Value": {
                 "id": "b8d96109-eb46-4b7c-b6cf-1be3da3ee1f2",
@@ -231,18 +223,10 @@
             }
         },
         {
-            "Key": "c1d95506-de1e-4806-a24a-7f9e0d3009c8",
-            "Value": {
-                "id": "c1456272-f91a-44b7-abb7-faffe41ca447",
-                "resourcePath": "sprites\\spr_tomatosmallPH\\spr_tomatosmallPH.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c2b1be6e-2db3-473c-9b7e-975a61d5eb01",
             "Value": {
                 "id": "0957f2a3-ffea-4f5d-ae66-a77e5fddaae3",
-                "resourcePath": "objects\\obj_flowerPlaceholder\\obj_flowerPlaceholder.yy",
+                "resourcePath": "objects\\obj_flower\\obj_flower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -250,7 +234,7 @@
             "Key": "cc410967-d9a1-412a-ac89-ce28264522d6",
             "Value": {
                 "id": "4e304fcd-54fd-4380-82a0-5b87b6051841",
-                "resourcePath": "sprites\\spr_tomatoLargePH\\spr_tomatoLargePH.yy",
+                "resourcePath": "sprites\\spr_tomato\\spr_tomato.yy",
                 "resourceType": "GMSprite"
             }
         },
