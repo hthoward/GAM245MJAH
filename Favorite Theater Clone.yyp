@@ -415,6 +415,14 @@
             }
         },
         {
+            "Key": "e35f3078-7acd-48b0-b019-4b1ea8d43f06",
+            "Value": {
+                "id": "da23b9e4-7e35-458e-bdd6-d2a017467223",
+                "resourcePath": "objects\\obj_seats\\obj_seats.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ef64081d-8920-4662-be8f-154c64db8a2a",
             "Value": {
                 "id": "5083caf2-41a8-4a97-a330-5e626751ef62",
