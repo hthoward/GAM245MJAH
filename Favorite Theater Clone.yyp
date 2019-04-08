@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "91bd5602-7824-4cdd-a2dd-7447517bfe08",
-            "Value": {
-                "id": "48532215-58c9-4400-b03d-319a602df7ab",
-                "resourcePath": "sounds\\splat\\splat.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "9874940f-5d2c-4131-aab2-ef4b79e193a4",
             "Value": {
                 "id": "5b668a64-4e43-48e0-8c9a-785a52e5f79a",
