@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2d4c5323-75d7-4c37-a85b-92e84ea38195",
+            "Value": {
+                "id": "1894fcbe-1a85-4220-a87b-39b6cf5ae5cc",
+                "resourcePath": "sounds\\tomatoSplat\\tomatoSplat.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "330d069f-88ac-4e95-b4b4-6c88358e42c7",
             "Value": {
                 "id": "5c7ac838-bc29-4784-90ba-7a848139b4e9",
