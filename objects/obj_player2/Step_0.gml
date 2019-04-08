@@ -1,7 +1,7 @@
 var _right= keyboard_check(ord("D"));
 var _left= keyboard_check(ord("A"));
 
-if (global.selfesteem>=40 and global.selfesteem<60){
+if (global.selfEsteem>=40 and global.selfEsteem<60){
 	sprite_index=p3;
 	image_speed=.3;
 	if (_right - _left != 0){
@@ -20,7 +20,7 @@ if (global.selfesteem>=40 and global.selfesteem<60){
 	}
 }
 
-if (global.selfesteem>0 and global.selfesteem<20){
+if (global.selfEsteem>0 and global.selfEsteem<20){
 	sprite_index=p5;
 	image_speed=.3;
 	if (_right - _left != 0){
@@ -39,7 +39,7 @@ if (global.selfesteem>0 and global.selfesteem<20){
 	}
 }
 
-if (global.selfesteem>=20 and global.selfesteem<40){
+if (global.selfEsteem>=20 and global.selfEsteem<40){
 	sprite_index=p4;
 	image_speed=.3;
 	if (_right - _left != 0){
@@ -58,7 +58,7 @@ if (global.selfesteem>=20 and global.selfesteem<40){
 	}
 }
 
-if (global.selfesteem>=60 and global.selfesteem<80){
+if (global.selfEsteem>=60 and global.selfEsteem<80){
 	sprite_index=p2;
 	image_speed=.3;
 	if (_right - _left != 0){
@@ -77,7 +77,7 @@ if (global.selfesteem>=60 and global.selfesteem<80){
 	}
 }
 
-if (global.selfesteem>=80 and global.selfesteem<100){
+if (global.selfEsteem>=80 and global.selfEsteem<100){
 	sprite_index=p1;
 	image_speed=.3;
 	if (_right - _left != 0){

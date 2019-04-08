@@ -1,0 +1,1 @@
+global.selfEsteem=40;
