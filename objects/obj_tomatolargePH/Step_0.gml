@@ -1,1 +1,1 @@
-hspeed=(.1*_hspeed);
+hspeed=(.5*_hspeed);

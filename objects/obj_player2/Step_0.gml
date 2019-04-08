@@ -6,10 +6,10 @@ if (global.selfEsteem>=40 and global.selfEsteem<60){
 	image_speed=.3;
 	if (_right - _left != 0){
 		hspeed = (_right - _left) * (pSpeed);
-		if (x <= 20){
+		if (x <= 140+52.5){
 			x=x+5;
 		}
-		if (x >= 1004){
+		if (x >= 800-52.5){
 			x=x-5;
 		}
 	}
@@ -25,10 +25,10 @@ if (global.selfEsteem>0 and global.selfEsteem<20){
 	image_speed=.3;
 	if (_right - _left != 0){
 		hspeed = (_right - _left) * (pSpeed);
-		if (x <= 20){
+		if (x <= 152){
 			x=x+5;
 		}
-		if (x >= 1004){
+		if (x >= 800-52.5){
 			x=x-5;
 		}
 	}
@@ -44,10 +44,10 @@ if (global.selfEsteem>=20 and global.selfEsteem<40){
 	image_speed=.3;
 	if (_right - _left != 0){
 		hspeed = (_right - _left) * (pSpeed);
-		if (x <= 20){
+		if (x <= 152){
 			x=x+5;
 		}
-		if (x >= 1004){
+		if (x >= 800-52.5){
 			x=x-5;
 		}
 	}
@@ -63,10 +63,10 @@ if (global.selfEsteem>=60 and global.selfEsteem<80){
 	image_speed=.3;
 	if (_right - _left != 0){
 		hspeed = (_right - _left) * (pSpeed);
-		if (x <= 20){
+		if (x <= 152){
 			x=x+5;
 		}
-		if (x >= 1004){
+		if (x >= 800-52.5){
 			x=x-5;
 		}
 	}
@@ -82,10 +82,10 @@ if (global.selfEsteem>=80 and global.selfEsteem<100){
 	image_speed=.3;
 	if (_right - _left != 0){
 		hspeed = (_right - _left) * (pSpeed);
-		if (x <= 20){
+		if (x <= 152){
 			x=x+5;
 		}
-		if (x >= 1004){
+		if (x >= 800-52.5){
 			x=x-5;
 		}
 	}

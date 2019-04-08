@@ -1,0 +1,1 @@
+layer_sprite_alpha(spr_arc,1);

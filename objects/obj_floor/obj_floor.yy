@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_floor",
     "eventList": [
-        
+        {
+            "id": "fd8bed37-0a99-436f-87a6-9feca441817b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6feee5cd-00a1-4b5e-95d1-7ed9f367f606"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7f11950f-bdbb-4e32-a9a9-027a13b4500d",
-    "visible": true
+    "spriteId": "7324346e-3c03-4a0a-abd6-ea614dae2217",
+    "visible": false
 }
