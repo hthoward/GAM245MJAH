@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1aec5a1c-d3bf-4733-97ff-641c1d8a87b2",
+            "Value": {
+                "id": "6a2b6070-3bbd-4d5c-a6c1-7e560513aac1",
+                "resourcePath": "sprites\\weeping1\\weeping1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "284f0351-fd68-4387-a663-b07695cdb648",
             "Value": {
                 "id": "bc23f21a-e53e-48f8-871a-3ba5dabcf600",
@@ -500,14 +508,6 @@
                 "id": "da23b9e4-7e35-458e-bdd6-d2a017467223",
                 "resourcePath": "objects\\obj_seats\\obj_seats.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ebe89450-9954-4f61-97b5-28d416ca394f",
-            "Value": {
-                "id": "b5038d99-2ff7-4014-9516-38aafd1a9df9",
-                "resourcePath": "sprites\\weeping\\weeping.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
