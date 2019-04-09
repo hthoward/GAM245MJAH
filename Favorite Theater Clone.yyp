@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "2ccae054-4b1e-459b-bc9d-87f8f85164df",
+            "Value": {
+                "id": "768a7dcf-5d4d-4a8a-a13c-9e429a42b50b",
+                "resourcePath": "objects\\obj_stageRoseWin\\obj_stageRoseWin.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2d4c5323-75d7-4c37-a85b-92e84ea38195",
             "Value": {
                 "id": "1894fcbe-1a85-4220-a87b-39b6cf5ae5cc",
@@ -258,7 +266,7 @@
             "Key": "82d0ef6c-0c7a-4b12-a604-7617de2d9209",
             "Value": {
                 "id": "e10968d6-32c0-415c-873b-49d12fc74538",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\GamePlay\\GamePlay.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -284,6 +292,14 @@
                 "id": "5b668a64-4e43-48e0-8c9a-785a52e5f79a",
                 "resourcePath": "views\\9874940f-5d2c-4131-aab2-ef4b79e193a4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a8a3379-6755-4052-be61-35bf16274cf9",
+            "Value": {
+                "id": "12f0ab26-a765-44a8-97d2-abdf45c2e8a8",
+                "resourcePath": "rooms\\StartScreen\\StartScreen.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -338,7 +354,15 @@
             "Key": "b621a9e4-10dc-46ae-b327-4f44811f3f55",
             "Value": {
                 "id": "dee52324-63c7-42e7-ae6c-21911ff14b12",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\LossScreen\\LossScreen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "b9d3d0d8-94dd-4cd4-9327-dad60578ecb9",
+            "Value": {
+                "id": "4c31464b-ae8b-4f30-b46d-2a89c44e40ec",
+                "resourcePath": "rooms\\WinScreen\\WinScreen.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -363,6 +387,14 @@
             "Value": {
                 "id": "0957f2a3-ffea-4f5d-ae66-a77e5fddaae3",
                 "resourcePath": "objects\\obj_flower\\obj_flower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c8b73fb4-62bc-4803-809f-160eadb8a4b0",
+            "Value": {
+                "id": "84399ec5-590c-4852-a1c2-86deccbe4bbc",
+                "resourcePath": "objects\\obj_splatLoss\\obj_splatLoss.yy",
                 "resourceType": "GMObject"
             }
         },

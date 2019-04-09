@@ -1,6 +1,6 @@
 
 {
-    "name": "room1",
+    "name": "LossScreen",
     "id": "b621a9e4-10dc-46ae-b327-4f44811f3f55",
     "creationCodeFile": "",
     "inheritCode": false,
